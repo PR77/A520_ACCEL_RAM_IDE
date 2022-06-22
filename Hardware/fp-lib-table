@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name micro-68x_db)(type Legacy)(uri ${KIPRJMOD}/micro-68x_db.mod)(options "")(descr ""))
+)
