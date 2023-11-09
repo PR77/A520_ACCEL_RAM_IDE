@@ -1,7 +1,8 @@
 (sym_lib_table
-  (lib (name amiga)(type Legacy)(uri C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/amiga.lib)(options "")(descr ""))
-  (lib (name 68k)(type Legacy)(uri C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/68k.lib)(options "")(descr ""))
-  (lib (name micro-68x_db)(type Legacy)(uri C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/micro-68x_db.lib)(options "")(descr ""))
-  (lib (name CustomComponents)(type Legacy)(uri C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/CustomComponents.lib)(options "")(descr ""))
-  (lib (name XC9572VQ44)(type Legacy)(uri C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/XC9572VQ44.lib)(options "")(descr ""))
+  (lib (name "amiga")(type "Legacy")(uri "C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/amiga.lib")(options "")(descr ""))
+  (lib (name "68k")(type "Legacy")(uri "C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/68k.lib")(options "")(descr ""))
+  (lib (name "micro-68x_db")(type "Legacy")(uri "C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/micro-68x_db.lib")(options "")(descr ""))
+  (lib (name "CustomComponents")(type "Legacy")(uri "C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/CustomComponents.lib")(options "")(descr ""))
+  (lib (name "XC9572VQ44")(type "Legacy")(uri "C:/Users/Paul/Documents/Amiga/A520_ACCEL_RAM_IDE/Rev1/Hardware/XC9572VQ44.lib")(options "")(descr ""))
+  (lib (name "A520_ACCEL_RAM_IDE-rescue")(type "Legacy")(uri "${KIPRJMOD}/A520_ACCEL_RAM_IDE-rescue.lib")(options "")(descr ""))
 )
